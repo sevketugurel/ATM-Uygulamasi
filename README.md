@@ -63,3 +63,4 @@ If you find any issues or have suggestions for improvements, please feel free to
 
 Thank you for using the ATM Console Application!
 
+<img width="740" alt="Ekran Resmi 2023-11-27 ÖS 6 46 39" src="https://github.com/sevketugurel/ATM-Uygulamasi/assets/118289177/5546ed21-fa31-4d21-9ba5-57325f49f9bb">
